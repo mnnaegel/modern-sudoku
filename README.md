@@ -1,5 +1,10 @@
+### Set-up
+---
+The only dependency is pyarcade@2.3.7. Don't pip install arcade -- newer versions are not compatible with the director view mechanics.
 
-#### Sudoku (Max):
+
+### Instructions
+---
 The classic game of Sudoku.
 
 1. Sudoku is played on a grid of 9 x 9 spaces. 
